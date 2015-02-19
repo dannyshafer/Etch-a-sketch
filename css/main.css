@@ -3,10 +3,20 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.box_shape {
+   height: 30px;
+   width: 30px;
+   border: 1px solid #00ccff;
+   margin: 1px;
+   float: left;
+}
+.box-row {
+   float: left;
+}
 
-
-
-
+.neverGoOutOfStyle {
+   background-color: #00ccff;
+}
 
 
 
